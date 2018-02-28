@@ -1,0 +1,15 @@
+<ul class="flags-list">
+        <!-- <li ng-repeat="vxlg in flag.vxlgs | filter:$ctrl.query | orderBy:'name'" ng-if="$ctrl.query.name"> -->
+            <li ng-repeat="vxlg in flag.vxlgs | filter:$ctrl.query | orderBy:'name'" ng-if="$ctrl.query.name">
+        <p class="flag-name"><a id="flag-link" href="#{{ vxlg.id }}" ng-click="showDetails=!showDetails">{{ vxlg.nameAccented }}</a></p>
+        <div class="flag-view" ng-show="showDetails">
+            <!--<h2 id="flag-name">{{ vxlg.nameAccented }}</h2>  -->
+            <div class="image">
+                <img ng-src="{{ vxlg.image }}">
+            </div>
+            <p id="territory-type" class="meta"><b>Type:</b> {{ vxlg.divisionType }}</p> 
+            <p id="territory-parent" class="meta" ng-show="vxlg.parentExists"><b>Parent:</b> {{ vxlg.parent }}</p>
+        </div>
+    </li>
+    
+</ul>

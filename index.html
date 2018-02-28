@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html ng-app="vxlgApp" lang="en">
+    <head>
+        <link href="style.css" rel="stylesheet">
+    </head>
+    <body ng-controller="FlagsController as flag">
+        <main>
+            <!--<input type="search" id="search" placeholder="Search VXLG" ng-model="$ctrl.query.name"> -->
+            <input type="search" placeholder="Search VXLG" ng-model="$ctrl.query.name">
+            <section>
+                <div>
+                    <flag-view></flag-view>
+                </div>
+            </section>      
+        </main>
+        <footer>
+            <p>Made very hastily by Gurur Sarbanoglu</p>
+        </footer>
+        
+        <script src="angular.min.js"></script>
+        <script type="text/javascript" src="app.js"></script>
+        <script type="text/javascript" src="flag-view.js"></script>
+    
+    </body>
+</html>
