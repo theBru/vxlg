@@ -2,243 +2,606 @@
     {
         "id": "alto-paraguay-paraguay",
         "nameAccented": "Alto Paraguay",
-        "name": "Alto Paraguay",
+        "name": "Alto Paraguay Paraguay",
         "parentExists": true,
         "parentType": "country",
         "parent": "Paraguay",
         "divisionType": "Department",
         "flagType": "flag",
-        "image": "img/alto-paraguay-paraguay.png"
+        "flag": "img/alto-paraguay-paraguay.png"
     },
     {
         "id": "concepcion-paraguay",
         "nameAccented": "Concepción",
-        "name": "Concepcion",
+        "name": "Concepcion Paraguay",
         "parentExists": true,
         "parentType": "country",
         "parent" : "Paraguay",
         "divisionType": "Department",
         "flagType": "flag",
-        "image": "img/concepcion-paraguay.png"
+        "flag": "img/concepcion-paraguay.png"
     },
     {
         "id": "alto-parana-paraguay",
         "nameAccented": "Alto Paraná",
-        "name": "Alto Parana",
+        "name": "Alto Parana Paraguay",
         "parentExists": true,
         "parentType": "country",
         "parent": "Paraguay",
         "divisionType": "Department",
         "flagType": "flag",
-        "image": "img/alto-parana-paraguay.png"
+        "flag": "img/alto-parana-paraguay.png"
     },
     {
         "id": "amambay-paraguay",
         "nameAccented": "Amambay",
-        "name": "Amambay",
+        "name": "Amambay Paraguay",
         "parentExists": true,
         "parentType": "country",
         "parent": "Paraguay",
         "divisionType": "Department",
         "flagType": "flag",
-        "image": "img/amambay-paraguay.jpg"
+        "flag": "img/amambay-paraguay.jpg"
     },
     {
         "id": "asuncion-paraguay",
         "nameAccented": "Asunción",
-        "name": "Asuncion",
+        "name": "Asuncion Paraguay",
         "parentExists": true,
         "parentType": "country",
         "parent": "Paraguay",
         "divisionType": "Capital district",
         "flagType": "flag",
-        "image": "img/asuncion-paraguay.png"
+        "flag": "img/asuncion-paraguay.png"
     },
     {
         "id": "boqueron-paraguay",
         "nameAccented": "Boquerón",
-        "name": "Boqueron",
+        "name": "Boqueron Paraguay",
         "parentExists": true,
         "parentType": "country",
         "parent": "Paraguay",
         "divisionType": "Department",
         "flagType": "flag",
-        "image": "img/boqueron-paraguay.png"
+        "flag": "img/boqueron-paraguay.png"
     },
     {
         "id": "caaguazu-paraguay",
         "nameAccented": "Caaguazú",
-        "name": "Caaguazu",
+        "name": "Caaguazu Paraguay",
         "parentExists": true,
         "parentType": "country",
         "parent": "Paraguay",
         "divisionType": "Department",
         "flagType": "flag",
-        "image": "img/caaguazu-paraguay.png"
+        "flag": "img/caaguazu-paraguay.png"
     },
     {
         "id": "caazapa-paraguay",
         "nameAccented": "Caazapá",
-        "name": "Caazapa",
+        "name": "Caazapa Paraguay",
         "parentExists": true,
         "parentType": "country",
         "parent": "Paraguay",
         "divisionType": "Department",
         "flagType": "flag",
-        "image": "img/caazapa-paraguay.png"
+        "flag": "img/caazapa-paraguay.png"
     },
     {
         "id": "canindeyu-paraguay",
         "nameAccented": "Canindeyú",
-        "name": "Canindeyu",
+        "name": "Canindeyu Paraguay",
         "parentExists": true,
         "parentType": "country",
         "parent": "Paraguay",
         "divisionType": "Department",
         "flagType": "flag",
-        "image": "img/canindeyu-paraguay.png"
+        "flag": "img/canindeyu-paraguay.png"
     },
     {
         "id": "central-paraguay",
         "nameAccented": "Central",
-        "name": "Central",
+        "name": "Central Paraguay",
         "parentExists": true,
         "parentType": "country",
         "parent": "Paraguay",
         "divisionType": "Department",
         "flagType": "flag",
-        "image": "img/central-paraguay.png"
+        "flag": "img/central-paraguay.png"
     },
     {
         "id": "cordillera-paraguay",
         "nameAccented": "Cordillera",
-        "name": "Cordillera",
+        "name": "Cordillera Paraguay",
         "parentExists": true,
         "parentType": "country",
         "parent": "Paraguay",
         "divisionType": "Department",
         "flagType": "flag",
-        "image": "img/cordillera-paraguay.jpg"
+        "flag": "img/cordillera-paraguay.jpg"
     },
     {
         "id": "guaira-paraguay",
         "nameAccented": "Guaíra",
-        "name": "Guaira",
+        "name": "Guaira Paraguay",
         "parentExists": true,
         "parentType": "country",
         "parent": "Paraguay",
         "divisionType": "Department",
         "flagType": "flag",
-        "image": "img/guaira-paraguay.png"
+        "flag": "img/guaira-paraguay.png"
     },
     {
         "id": "itapua-paraguay",
         "nameAccented": "Itaúpa",
-        "name": "Itaupa",
+        "name": "Itaupa Paraguay",
         "parentExists": true,
         "parentType": "country",
-        "parentName": "Paraguay",
+        "parent": "Paraguay",
         "divisionType": "Department",
         "flagType": "flag",
-        "image": "img/itapua-paraguay.png"
+        "flag": "img/itapua-paraguay.png"
     },
     {
         "id": "misiones-paraguay",
         "nameAccented": "Misiones",
-        "name": "Misiones",
+        "name": "Misiones Paraguay",
         "parentExists": true,
         "parentType": "country",
-        "parentName": "Paraguay",
+        "parent": "Paraguay",
         "divisionType": "Department",
         "flagType": "flag",
-        "image": "img/misiones-paraguay.jpg"
+        "flag": "img/misiones-paraguay.jpg"
     },
     {
         "id": "neembucu-paraguay",
         "nameAccented": "Ñeembucú",
-        "name": "Neembucu",
+        "name": "Neembucu Paraguay",
         "parentExists": true,
         "parentType": "country",
-        "parentName": "Paraguay",
+        "parent": "Paraguay",
         "divisionType": "Department",
         "flagType": "flag",
-        "image": "img/neembucu-paraguay.png"
+        "flag": "img/neembucu-paraguay.png"
     },
     {
         "id": "paraguari-paraguay",
         "nameAccented": "Paraguarí",
-        "name": "Paraguari",
+        "name": "Paraguari Paraguay",
         "parentExists": true,
         "parentType": "country",
-        "parentName": "Paraguay",
+        "parent": "Paraguay",
         "divisionType": "Department",
         "flagType": "flag",
-        "image": "img/paraguari-paraguay.jpg"
+        "flag": "img/paraguari-paraguay.jpg"
     },
     {
         "id": "paraguay",
         "nameAccented": "Paraguay",
-        "name": "Paraguay country",
+        "name": "0Paraguay country",
         "parentExists": false,
         "parentType": null,
-        "parentName": null,
-        "divisionType": "Sovereign country",
+        "parent": null,
+        "divisionType": "Sovereign state",
         "flagType": "flag",
-        "image": "img/paraguay.png"
+        "flag": "img/paraguay.png"
     },
     {
         "id": "presidente-hayes-paraguay",
         "nameAccented": "Presidente Hayes",
-        "name": "Presidente Hayes",
+        "name": "Presidente Hayes Paraguay",
         "parentExists": true,
         "parentType": "country",
         "parent": "Paraguay",
         "divisionType": "Department",
         "flagType": "flag",
-        "image": "img/presidente-hayes-paraguay.png"
+        "flag": "img/presidente-hayes-paraguay.png"
     },
     {
         "id": "san-pedro-paraguay",
         "nameAccented": "San Pedro",
-        "name": "San Pedro",
+        "name": "San Pedro Paraguay",
         "parentExists": true,
         "parentType": "country",
         "parent": "Paraguay",
         "divisionType": "Department",
         "flagType": "flag",
-        "image": "img/san-pedro-paraguay.jpg"
+        "flag": "img/san-pedro-paraguay.jpg"
     },
     {
         "id": "aargau-switzerland",
         "nameAccented": "Aargau",
-        "name": "Aargau",
+        "name": "Aargau Switzerland",
         "parentExists": true,
         "parentType": "country",
         "parent": "Switzerland",
         "divisionType": "Canton",
-        "flagType": "coat of arms",
-        "image": "img/aargau-switzerland.png"
+        "flagType": "coat-of-arms",
+        "coa": "img/aargau-switzerland.png"
     },
     {
         "id": "abidjan-cote-divoire",
         "nameAccented": "Abidjan",
-        "name": "Abidjan",
+        "name": "Abidjan Cote d'Ivoire Ivory Coast",
         "parentExists": true,
         "parentType": "country",
         "parent": "Cote d'Ivoire",
         "divisionType": "Autonomous district",
         "flagType": "flag",
-        "image": "img/abidjan-cote-divoire.png"
+        "flag": "img/abidjan-cote-divoire.png"
     },
     {
         "id": "abruzzo-cote-divoire",
         "nameAccented": "Abruzzo",
-        "name": "Abruzzo",
+        "name": "Abruzzo Italy",
         "parentExists": true,
         "parentType": "country",
         "parent": "Italy",
         "divisionType": "Region",
         "flagType": "flag",
-        "image": "img/abruzzo-italy.png"
+        "flag": "img/abruzzo-italy.png"
+    },
+    {
+        "id": "aceh-indonesia",
+        "nameAccented": "Aceh",
+        "name": "Aceh Indonesia",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Indonesia",
+        "divisionType": "Province",
+        "flagType": "flag",
+        "flag": "img/aceh-indonesia.png"
+    },
+    {
+        "id": "acquaviva-san-marino",
+        "nameAccented": "Acquaviva",
+        "name": "Acquaviva San Marino",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "San Marino",
+        "divisionType": "Commune",
+        "flagType": "flag",
+        "flag": "img/acquaviva-san-marino.jpg"
+    },
+    {
+        "id": "acre-brazil",
+        "nameAccented": "Acre",
+        "name": "Acre Brazil",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Brazil",
+        "divisionType": "State",
+        "flagType": "flag",
+        "flag": "img/acre-brazil.png"
+    },
+    {
+        "id": "adazi-latvia",
+        "nameAccented": "Ādaži",
+        "name": "Adazi Latvia",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Latvia",
+        "divisionType": "Municipality",
+        "flagType": "flag",
+        "flag": "img/adazi-latvia.png"
+    },
+    {
+        "id": "adygea-russia",
+        "nameAccented": "Adygea",
+        "name": "Adygea Russia",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Russia",
+        "divisionType": "Republic",
+        "flagType": "flag",
+        "flag": "img/adygea-russia.png"
+    },
+    {
+        "id": "afar-ethiopia",
+        "nameAccented": "Afar",
+        "name": "Afar Ethiopia",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Ethiopia",
+        "divisionType": "Regional state",
+        "flagType": "flag",
+        "flag": "img/afar-ethiopia.png"
+    },
+    {
+        "id": "afghanistan",
+        "nameAccented": "Afghanistan",
+        "name": "0Afghanistan country",
+        "parentExists": false,
+        "parentType": null,
+        "parent": null,
+        "divisionType": "Sovereign state",
+        "flagType": "flag",
+        "flag": "img/afghanistan.png"
+    },
+    {
+        "id": "aglona-latvia",
+        "nameAccented": "Aglona",
+        "name": "Aglona Latvia",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Latvia",
+        "divisionType": "Municipality",
+        "flagType": "flag",
+        "flag": "img/aglona-latvia.png"
+    },
+    {
+        "id": "aguascalientes-mexico",
+        "nameAccented": "Aguascalientes",
+        "name": "Aguascalientes Mexico",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Mexico",
+        "divisionType": "State",
+        "flagType": "flag",
+        "flag": "img/aguascalientes-mexico.png"
+    },
+    {
+        "id": "ahuachapan-el-salvador",
+        "nameAccented": "Ahuachapán",
+        "name": "Ahuachapan El Salvador",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "El Salvador",
+        "divisionType": "Department",
+        "flagType": "flag",
+        "flag": "img/ahuachapan-el-salvador.png"
+    },
+    {
+        "id": "aichi-japan",
+        "nameAccented": "Aichi",
+        "name": "Aichi Japan",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Japan",
+        "divisionType": "Prefecture",
+        "flagType": "flag",
+        "flag": "img/aichi-japan.png"
+    },
+    {
+        "id": "aileu-east-timor",
+        "nameAccented": "Aileu",
+        "name": "Aileu East Timor",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "East Timor",
+        "divisionType": "District",
+        "flagType": "flag",
+        "flag": "img/aileu-east-timor.png"
+    },
+    {
+        "id": "aimeliik-palau",
+        "nameAccented": "Aimeliik",
+        "name": "Aimeliik Palau",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Palau",
+        "divisionType": "State",
+        "flagType": "flag",
+        "flag": "img/aimeliik-palau.png"
+    },
+    {
+        "id": "ainaro-east-timor",
+        "nameAccented": "Ainaro",
+        "name": "Ainaro East Timor",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "East Timor",
+        "divisionType": "District",
+        "flagType": "flag",
+        "flag": "img/ainaro-east-timor.png"
+    },
+    {
+        "id": "airai-palau",
+        "nameAccented": "Airai",
+        "name": "Airai Palau",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Palau",
+        "divisionType": "State",
+        "flagType": "flag",
+        "flag": "img/airai-palau.png"
+    },
+    {
+        "id": "aizkraukle-latvia",
+        "nameAccented": "Aizkraukle",
+        "name": "Aizkraukle Latvia",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Latvia",
+        "divisionType": "Municipality",
+        "flagType": "coat-of-arms",
+        "coa": "img/aizkraukle-latvia.png"
+    },
+    {
+        "id": "aizpute-latvia",
+        "nameAccented": "Aizpute",
+        "name": "Aizpute Latvia",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Latvia",
+        "divisionType": "Town",
+        "flagType": "flag",
+        "flag": "img/aizpute-latvia.png"
+    },
+    {
+        "id": "akershus-norway",
+        "nameAccented": "Akershus",
+        "name": "Akershus Norway",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Norway",
+        "divisionType": "County",
+        "flagType": "coat-of-arms",
+        "coa": "img/akershus-norway.png"
+    },
+    {
+        "id": "akita-japan",
+        "nameAccented": "Akita",
+        "name": "Akita Japan",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Japan",
+        "divisionType": "Prefecture",
+        "flagType": "flag",
+        "flag": "img/akita-japan.png"
+    },
+    {
+        "id": "akita-city-japan",
+        "nameAccented": "Akita (city)",
+        "name": "Akita Japan",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Japan",
+        "divisionType": "Core city",
+        "flagType": "flag",
+        "flag": "img/akita-city-japan.png"
+    },
+    {
+        "id": "akmola-kazakhstan",
+        "nameAccented": "Akmola",
+        "name": "Akmola Kazakhstan",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Kazakhstan",
+        "divisionType": "Region",
+        "flagType": "coat-of-arms",
+        "coa": "img/akmola-kazakhstan.png"
+    },
+    {
+        "id": "akniste-latvia",
+        "nameAccented": "Aknīste",
+        "name": "Akniste Latvia",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Latvia",
+        "divisionType": "Town",
+        "flagType": "coat-of-arms",
+        "coa": "img/akniste-latvia.png"
+    },
+    {
+        "id": "akranes-iceland",
+        "nameAccented": "Akranes",
+        "name": "Akranes Iceland",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Iceland",
+        "divisionType": "Town",
+        "flagType": "coat-of-arms",
+        "coa": "img/akranes-iceland.jpg"
+    },
+    {
+        "id": "aktobe-kazakhstan",
+        "nameAccented": "Aktobe",
+        "name": "Aktobe Kazakhstan",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Kazakhstan",
+        "divisionType": "Region",
+        "flagType": "coat-of-arms",
+        "coa": "img/aktobe-kazakhstan.png"
+    },
+    {
+        "id": "akureyri-iceland",
+        "nameAccented": "Akureyri",
+        "name": "Akureyri Iceland",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Iceland",
+        "divisionType": "Town",
+        "flagType": "coat-of-arms",
+        "coa": "img/akureyri-iceland.png"
+    },
+    {
+        "id": "alabama-usa",
+        "nameAccented": "Alabama",
+        "name": "Alabama USA United States of America",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "USA",
+        "divisionType": "State",
+        "flagType": "flag",
+        "flag": "img/alabama-usa.png"
+    },
+    {
+        "id": "alagoas-brazil",
+        "nameAccented": "Alagoas",
+        "name": "Alagoas Brazil",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Brazil",
+        "divisionType": "State",
+        "flagType": "flag",
+        "flag": "img/alagoas-brazil.png"
+    },
+    {
+        "id": "alajuela-costa-rica",
+        "nameAccented": "Alajuela",
+        "name": "Alajuela Costa Rica",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Costa Rica",
+        "divisionType": "Province",
+        "flagType": "flag",
+        "flag": "img/alajuela-costa-rica.png"
+    },
+    {
+        "id": "aland-finland",
+        "nameAccented": "Åland",
+        "name": "Aland Finland",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Finland",
+        "divisionType": "Autonomous region",
+        "flagType": "flag",
+        "flag": "img/aland-finland.png"
+    },
+    {
+        "id": "alaska-usa",
+        "nameAccented": "Alaska",
+        "name": "Alaska USA United States of America",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "USA",
+        "divisionType": "State",
+        "flagType": "flag",
+        "flag": "img/alaska-usa.png"
+    },
+    {
+        "id": "alba-romania",
+        "nameAccented": "Alba",
+        "name": "Alba Romania",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Romania",
+        "divisionType": "County",
+        "flagType": "coat-of-arms",
+        "coa": "img/alba-romania.png"
+    },
+    {
+        "id": "Albania",
+        "nameAccented": "Albania",
+        "name": "0Albania country",
+        "parentExists": false,
+        "parentType": null,
+        "parent": null,
+        "divisionType": "Sovereign state",
+        "flagType": "flag",
+        "flag": "img/albania.png"
+    },
+    {
+        "id": "alberta-canada",
+        "nameAccented": "Alberta",
+        "name": "Alberta Canada",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Canada",
+        "divisionType": "Province",
+        "flagType": "flag",
+        "flag": "img/alberta-canada.png"
     }
 ]
