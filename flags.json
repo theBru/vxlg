@@ -603,5 +603,115 @@
         "divisionType": "Province",
         "flagType": "flag",
         "flag": "img/alberta-canada.png"
+    },
+    {
+        "id": "alexandria-egypt",
+        "nameAccented": "Alexandria",
+        "name": "Alexandria Egypt",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Egypt",
+        "divisionType": "City",
+        "flagType": "flag",
+        "flag": "img/alexandria-egypt.png"
+    },
+    {
+        "id": "Algeria",
+        "nameAccented": "Algeria",
+        "name": "0Algeria country",
+        "parentExists": false,
+        "parentType": null,
+        "parent": null,
+        "divisionType": "Sovereign state",
+        "flagType": "flag",
+        "flag": "img/algeria.png"
+    },
+    {
+        "id": "almaty-city-kazakhstan",
+        "nameAccented": "Almaty (city)",
+        "name": "Almaty Kazakhstan",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Kazakhstan",
+        "divisionType": "City",
+        "flagType": "flag",
+        "flag": "img/almaty-city-kazakhstan.png"
+    },
+    {
+        "id": "almaty-kazakhstan",
+        "nameAccented": "Almaty",
+        "name": "Almaty Kazakhstan",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Kazakhstan",
+        "divisionType": "Region",
+        "flagType": "coat-of-arms",
+        "coa": "img/almaty-kazakhstan.png"
+    },
+    {
+        "id": "aloja-city-latvia",
+        "nameAccented": "Aloja (city)",
+        "name": "Aloja Latvia",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Latvia",
+        "divisionType": "City",
+        "flagType": "flag",
+        "flag": "img/aloja-city-latvia.png"
+    },
+    {
+        "id": "aloja-latvia",
+        "nameAccented": "Aloja",
+        "name": "Aloja Latvia",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Latvia",
+        "divisionType": "Municipality",
+        "flagType": "coat-of-arms",
+        "coa": "img/aloja-latvia.png"
+    },
+    {
+        "id": "alsunga-latvia",
+        "nameAccented": "Alsunga",
+        "name": "Alsunga Latvia",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Latvia",
+        "divisionType": "Municipality",
+        "flagType": "coat-of-arms",
+        "coa": "img/alsunga-latvia.png"
+    },
+    {
+        "id": "alta-verapaz-guatemala",
+        "nameAccented": "Alta Verapaz",
+        "name": "Alta Verapaz Guatemala",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Guatemala",
+        "divisionType": "Department",
+        "flagType": "flag",
+        "flag": "img/alta-verapaz-guatemala.png"
+    },
+    {
+        "id": "altai-russia",
+        "nameAccented": "Altai",
+        "name": "Altai Russia",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Russia",
+        "divisionType": "Republic",
+        "flagType": "flag",
+        "flag": "img/altai-russia.png"
+    },
+    {
+        "id": "aluksne-city-latvia",
+        "nameAccented": "Alūksne (town)",
+        "name": "Aluksne Latvia",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Latvia",
+        "divisionType": "Town",
+        "flagType": "flag",
+        "flag": "img/aluksne-city-latvia.png"
     }
 ]
