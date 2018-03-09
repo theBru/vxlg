@@ -713,5 +713,137 @@
         "divisionType": "Town",
         "flagType": "flag",
         "flag": "img/aluksne-city-latvia.png"
+    },
+    {
+        "id": "alytus-city-lithuania",
+        "nameAccented": "Alytus (city)",
+        "name": "Alytus Lithuania",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Lithuania",
+        "divisionType": "City",
+        "flagType": "flag",
+        "flag": "img/alytus-city-lithuania.gif"
+    },
+    {
+        "id": "alytus-county-lithuania",
+        "nameAccented": "Alytus (county)",
+        "name": "Alytus Lithuania",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Lithuania",
+        "divisionType": "County",
+        "flagType": "flag",
+        "flag": "img/alytus-lithuania.png"
+    },
+    {
+        "id": "amapa-brazil",
+        "nameAccented": "Amapá",
+        "name": "Amapa Brazil",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Brazil",
+        "divisionType": "State",
+        "flagType": "flag",
+        "flag": "img/amapa-brazil.png"
+    },
+    {
+        "id": "amata-latvia",
+        "nameAccented": "Amata",
+        "name": "Amata Latvia",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Latvia",
+        "divisionType": "Municipality",
+        "flagType": "coat-of-arms",
+        "coa": "img/amata-latvia.png"
+    },
+    {
+        "id": "amazonas-brazil",
+        "nameAccented": "Amazonas",
+        "name": "Amazonas Brazil",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Brazil",
+        "divisionType": "State",
+        "flagType": "flag",
+        "flag": "img/amazonas-brazil.png"
+    },
+    {
+        "id": "amazonas-colombia",
+        "nameAccented": "Amazonas",
+        "name": "Amazonas Colombia",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Colombia",
+        "divisionType": "Department",
+        "flagType": "flag",
+        "flag": "img/amazonas-colombia.png"
+    },
+    {
+        "id": "amazonas-peru",
+        "nameAccented": "Amazonas",
+        "name": "Amazonas Peru",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Peru",
+        "divisionType": "Department",
+        "flagType": "coat-of-arms",
+        "coa": "img/amazonas-peru.png"
+    },
+    {
+        "id": "amazonas-venezuela",
+        "nameAccented": "Amazonas",
+        "name": "Amazonas Venezuela",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Venezuela",
+        "divisionType": "State",
+        "flagType": "flag",
+        "flag": "img/amazonas-venezuela.png"
+    },
+    {
+        "id": "american-samoa-usa",
+        "nameAccented": "American Samoa",
+        "name": "American Samoa USA",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "USA",
+        "divisionType": "Unincorporated territory",
+        "flagType": "flag",
+        "flag": "img/american-samoa-usa.png"
+    },
+    {
+        "id": "amhara-ethiopia",
+        "nameAccented": "Amhara",
+        "name": "Amhara Ethiopia",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Ethiopia",
+        "divisionType": "Regional state",
+        "flagType": "flag",
+        "flag": "img/amhara-ethiopia.png"
+    },
+    {
+        "id": "amur-russia",
+        "nameAccented": "Amur",
+        "name": "Amur Russia",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Russia",
+        "divisionType": "Oblast",
+        "flagType": "flag",
+        "flag": "img/amur-russia.png"
+    },
+    {
+        "id": "ancash-peru",
+        "nameAccented": "Áncash",
+        "name": "Ancash Peru",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Peru",
+        "divisionType": "Region",
+        "flagType": "coat-of-arms",
+        "coa": "img/ancash-peru.jpg"
     }
 ]
