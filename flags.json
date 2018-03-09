@@ -583,7 +583,7 @@
         "coa": "img/alba-romania.png"
     },
     {
-        "id": "Albania",
+        "id": "albania",
         "nameAccented": "Albania",
         "name": "0Albania country",
         "parentExists": false,
@@ -616,7 +616,7 @@
         "flag": "img/alexandria-egypt.png"
     },
     {
-        "id": "Algeria",
+        "id": "algeria",
         "nameAccented": "Algeria",
         "name": "0Algeria country",
         "parentExists": false,
@@ -845,5 +845,82 @@
         "divisionType": "Region",
         "flagType": "coat-of-arms",
         "coa": "img/ancash-peru.jpg"
+    },
+    {
+        "id": "andalusia-spain",
+        "nameAccented": "Andalusia",
+        "name": "Andalusia Spain",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Spain",
+        "divisionType": "Autonomous community",
+        "flagType": "flag",
+        "flag": "img/andalusia-spain.png"
+    },
+    {
+        "id": "andhra-pradesh-india",
+        "nameAccented": "Andhra Pradesh",
+        "name": "Andhra Pradesh India",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "India",
+        "divisionType": "State",
+        "flagType": "coat-of-arms",
+        "coa": "img/andhra-pradesh-india.jpg"
+    },
+    {
+        "id": "andorra",
+        "nameAccented": "Andorra",
+        "name": "0Andorra country",
+        "parentExists": false,
+        "parentType": null,
+        "parent": null,
+        "divisionType": "Sovereign state",
+        "flagType": "flag",
+        "flag": "img/andorra.png"
+    },
+    {
+        "id": "andorra-la-vella-andorra",
+        "nameAccented": "Andorra-la-Vella",
+        "name": "Andorra-la-Vella Andorra",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Andorra",
+        "divisionType": "City",
+        "flagType": "flag",
+        "flag": "img/andorra-la-vella-andorra.png"
+    },
+    {
+        "id": "andrijevica-montenegro",
+        "nameAccented": "Andrijevica",
+        "name": "Andrijevica Montenegro",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Montenegro",
+        "divisionType": "City",
+        "flagType": "coat-of-arms",
+        "coa": "img/andrijevica-montenegro.jpg"
+    },
+    {
+        "id": "angaur-palau",
+        "nameAccented": "Angaur",
+        "name": "Angaur Palau",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Palau",
+        "divisionType": "State",
+        "flagType": "flag",
+        "flag": "img/angaur-palau.png"
+    },
+    {
+        "id": "angola",
+        "nameAccented": "Angola",
+        "name": "0Angola country",
+        "parentExists": false,
+        "parentType": null,
+        "parent": null,
+        "divisionType": "Sovereign state",
+        "flagType": "flag",
+        "flag": "img/angola.png"
     }
 ]

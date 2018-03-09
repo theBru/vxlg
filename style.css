@@ -110,8 +110,7 @@ input[type="search"]::-webkit-input-placeholder {
 }
 
 img {
-	width: auto;
-	max-width: 100%;
+	width: 100%;
 	height: auto;
 	margin-bottom: 1rem;
 	border: 1px solid rgba(150,150,150,0.1);
