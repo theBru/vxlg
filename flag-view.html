@@ -1,7 +1,7 @@
 <ul class="flags-list">
         <!-- <li ng-repeat="vxlg in flag.vxlgs | filter:$ctrl.query | orderBy:'name'" ng-if="$ctrl.query.name"> -->
-        <li ng-repeat="vxlg in flag.vxlgs | filter:$ctrl.query | orderBy:'name'" ng-if="$ctrl.query.name">
-            <p class="flag-name"><a id="flag-link" href="" ng-click="showDetails=!showDetails">{{ vxlg.nameAccented }} <span class="parent">{{ vxlg.parent }}</span></a></p>
+        <li ng-repeat="vxlg in flag.vxlgs | filter:$ctrl.query | orderBy:['parent','name']" ng-if="$ctrl.query.name">
+            <p class="flag-name"><a id="flag-link" href="" ng-click="showDetails=!showDetails">{{ vxlg.nameAccented }} <span ng-if="vxlg.parent" class="parent">{{ vxlg.parent }}</span></a></p>
             <div class="flag-view" ng-show="showDetails">
                 <div class="image">
                     <img ng-if="vxlg.flag" ng-src="{{ vxlg.flag }}">

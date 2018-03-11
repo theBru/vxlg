@@ -178,10 +178,10 @@
     {
         "id": "paraguay",
         "nameAccented": "Paraguay",
-        "name": "0Paraguay country",
+        "name": "Paraguay country",
         "parentExists": false,
         "parentType": null,
-        "parent": null,
+        "parent": "",
         "divisionType": "Sovereign state",
         "flagType": "flag",
         "flag": "img/paraguay.png"
@@ -310,10 +310,10 @@
     {
         "id": "afghanistan",
         "nameAccented": "Afghanistan",
-        "name": "0Afghanistan country",
+        "name": "Afghanistan country",
         "parentExists": false,
         "parentType": null,
-        "parent": null,
+        "parent": "",
         "divisionType": "Sovereign state",
         "flagType": "flag",
         "flag": "img/afghanistan.png"
@@ -585,10 +585,10 @@
     {
         "id": "albania",
         "nameAccented": "Albania",
-        "name": "0Albania country",
+        "name": "Albania country",
         "parentExists": false,
         "parentType": null,
-        "parent": null,
+        "parent": "",
         "divisionType": "Sovereign state",
         "flagType": "flag",
         "flag": "img/albania.png"
@@ -618,10 +618,10 @@
     {
         "id": "algeria",
         "nameAccented": "Algeria",
-        "name": "0Algeria country",
+        "name": "Algeria country",
         "parentExists": false,
         "parentType": null,
-        "parent": null,
+        "parent": "",
         "divisionType": "Sovereign state",
         "flagType": "flag",
         "flag": "img/algeria.png"
@@ -871,10 +871,10 @@
     {
         "id": "andorra",
         "nameAccented": "Andorra",
-        "name": "0Andorra country",
+        "name": "Andorra country",
         "parentExists": false,
         "parentType": null,
-        "parent": null,
+        "parent": "",
         "divisionType": "Sovereign state",
         "flagType": "flag",
         "flag": "img/andorra.png"
@@ -915,12 +915,100 @@
     {
         "id": "angola",
         "nameAccented": "Angola",
-        "name": "0Angola country",
+        "name": "Angola country",
         "parentExists": false,
         "parentType": null,
-        "parent": null,
+        "parent": "",
         "divisionType": "Sovereign state",
         "flagType": "flag",
         "flag": "img/angola.png"
+    },
+    {
+        "id": "anguilla-uk",
+        "nameAccented": "Anguilla",
+        "name": "Anguilla UK",
+        "parentExists": true,
+        "parentType":"country",
+        "parent": "UK",
+        "divisionType": "Overseas territory",
+        "flagType": "flag",
+        "flag": "img/anguilla-uk.png"
+    },
+    {
+        "id": "anjouan-comoros",
+        "nameAccented": "Anjouan",
+        "name": "Anjouan Comoros",
+        "parentExists": true,
+        "parentType":"country",
+        "parent": "Comoros",
+        "divisionType": "Autonomous island",
+        "flagType": "flag",
+        "flag": "img/anjouan-comoros.png"
+    },
+    {
+        "id": "annobon-equatorial-guinea",
+        "nameAccented": "Annobón",
+        "name": "Annobon Equatorial Guinea",
+        "parentExists": true,
+        "parentType":"country",
+        "parent": "Equatorial Guinea",
+        "divisionType": "Province",
+        "flagType": "flag",
+        "flag": "img/annobon-equatorial-guinea.png"
+    },
+    {
+        "id": "antigua-and-barbuda",
+        "nameAccented": "Antigua and Barbuda",
+        "name": "Antigua and Barbuda country",
+        "parentExists": false,
+        "parentType": null,
+        "parent": "",
+        "divisionType": "Sovereign state",
+        "flagType": "flag",
+        "flag": "img/antigua-and-barbuda.png"
+    },
+    {
+        "id": "antioquia-colombia",
+        "nameAccented": "Antioquia",
+        "name": "Antioquia Colombia",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Colombia",
+        "divisionType": "Department",
+        "flagType": "flag",
+        "flag": "img/antioquia-colombia.png"
+    },
+    {
+        "id": "anzoategui-venezuela",
+        "nameAccented": "Anzoátegui",
+        "name": "Anzoategui Venezuela",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Venezuela",
+        "divisionType": "State",
+        "flagType": "flag",
+        "flag": "img/anzoategui-venezuela.png"
+    },
+    {
+        "id": "aomori-city-japan",
+        "nameAccented": "Aomori (city)",
+        "name": "Aomori Japan",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Japan",
+        "divisionType": "Core city",
+        "flagType": "flag",
+        "flag": "img/aomori-city-japan.png"
+    },
+    {
+        "id": "aomori-prefecture-japan",
+        "nameAccented": "Aomori (prefecture)",
+        "name": "Aomori Japan",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Japan",
+        "divisionType": "Prefecture",
+        "flagType": "flag",
+        "flag": "img/aomori-japan.png"
     }
 ]
