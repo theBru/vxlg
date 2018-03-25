@@ -1010,5 +1010,71 @@
         "divisionType": "Prefecture",
         "flagType": "flag",
         "flag": "img/aomori-japan.png"
+    },
+    {
+        "id": "aosta-valley-italy",
+        "nameAccented": "Aosta Valley",
+        "name": "Aosta Valley Italy",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Italy",
+        "divisionType": "Autonomous region",
+        "flagType": "flag",
+        "flag": "img/aosta-valley-italy.png"
+    },
+    {
+        "id": "ape-latvia",
+        "nameAccented": "Ape (municipality)",
+        "name": "Ape Latvia",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Latvia",
+        "divisionType": "Municipality",
+        "flagType": "coat-of-arms",
+        "coa": "img/ape-latvia.png"
+    },
+    {
+        "id": "ape-city-latvia",
+        "nameAccented": "Ape (city)",
+        "name": "Ape (city) Latvia",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Latvia",
+        "divisionType": "City",
+        "flagType": "coat-of-arms",
+        "coa": "img/ape-city-latvia.png"
+    },
+    {
+        "id": "appenzell-innerrhoden-switzerland",
+        "nameAccented": "Appenzell Innerrhoden",
+        "name": "Appenzell Innerrhoden Switzerland",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Switzerland",
+        "divisionType": "Canton",
+        "flagType": "coat-of-arms",
+        "coa": "img/appenzell-innerrhoden-switzerland.png"
+    },
+    {
+        "id": "appenzell-ausserrhoden-switzerland",
+        "nameAccented": "Appenzell Ausserrhoden",
+        "name": "Appenzell Ausserrhoden Switzerland",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Switzerland",
+        "divisionType": "Canton",
+        "flagType": "coat-of-arms",
+        "coa": "img/appenzell-ausserrhoden-switzerland.png"
+    },
+    {
+        "id": "apulia-italy",
+        "nameAccented": "Apulia",
+        "name": "Apulia Italy",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Italy",
+        "divisionType": "Region",
+        "flagType": "flag",
+        "flag": "img/apulia-italy.png"
     }
 ]
