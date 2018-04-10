@@ -1076,5 +1076,137 @@
         "divisionType": "Region",
         "flagType": "flag",
         "flag": "img/apulia-italy.png"
+    },
+    {
+        "id": "apure-venezuela",
+        "nameAccented": "Apure",
+        "name": "Apure Venezuela",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Venezuela",
+        "divisionType": "State",
+        "flagType": "flag",
+        "flag": "img/apure-venezuela.png"
+    },
+    {
+        "id": "apurimac-peru",
+        "nameAccented": "Apurimac",
+        "name": "Apurimac Peru",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Peru",
+        "divisionType": "Region",
+        "flagType": "coat-of-arms",
+        "coa": "img/apurimac-peru.png"
+    },
+    {
+        "id": "arad-romania",
+        "nameAccented": "Arad",
+        "name": "Arad Romania",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Romania",
+        "divisionType": "County",
+        "flagType": "coat-of-arms",
+        "coa": "img/arad-romania.png"
+    },
+    {
+        "id": "arad-city-romania",
+        "nameAccented": "Arad (city)",
+        "name": "Arad (city) Romania",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Romania",
+        "divisionType": "City",
+        "flagType": "flag",
+        "flag": "img/arad-city-romania.png"
+    },
+    {
+        "id": "aragon-spain",
+        "nameAccented": "Aragón",
+        "name": "Aragon Spain",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Spain",
+        "divisionType": "County",
+        "flagType": "flag",
+        "flag": "img/aragon-spain.png"
+    },
+    {
+        "id": "aragua-venezuela",
+        "nameAccented": "Aragua",
+        "name": "Aragua Venezuela",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Venezuela",
+        "divisionType": "State",
+        "flagType": "flag",
+        "flag": "img/aragua-venezuela.png"
+    },
+    {
+        "id": "arauca-colombia",
+        "nameAccented": "Arauca",
+        "name": "Arauca Colombia",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Colombia",
+        "divisionType": "Department",
+        "flagType": "flag",
+        "flag": "img/arauca-colombia.png"
+    },
+    {
+        "id": "arauca-city-romania",
+        "nameAccented": "Arauca (city)",
+        "name": "Arauca (city) Colombia",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Colombia",
+        "divisionType": "City",
+        "flagType": "flag",
+        "flag": "img/arauca-city-colombia.png"
+    },
+    {
+        "id": "araucania-chile",
+        "nameAccented": "Araucanía",
+        "name": "Araucania Chile",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Chile",
+        "divisionType": "Department",
+        "flagType": "flag",
+        "flag": "img/araucania-chile.png"
+    },
+    {
+        "id": "arauco-city-chile",
+        "nameAccented": "Arauco (city)",
+        "name": "Arauco Chile",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Chile",
+        "divisionType": "City",
+        "flagType": "flag",
+        "flag": "img/arauco-city-chile.png"
+    },
+    {
+        "id": "arequipa-city-peru",
+        "nameAccented": "Arequipa (city)",
+        "name": "Arequipa (city) Peru",
+        "parentExists": true,
+        "parentType": "country",
+        "parent": "Peru",
+        "divisionType": "City",
+        "flagType": "flag",
+        "flag": "img/arequipa-city-peru.png"
+    },
+    {
+        "id": "argentina",
+        "nameAccented": "Argentina",
+        "name": "Argentina country",
+        "parentExists": false,
+        "parentType": null,
+        "parent": "",
+        "divisionType": "Sovereign state",
+        "flagType": "flag",
+        "flag": "img/argentina.png"
     }
 ]
